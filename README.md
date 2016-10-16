@@ -1,2 +1,8 @@
 # hello-world
-A small program for Hello world 
+# small program for Hello world #
+
+public class HelloWorld . {
+ public static void main (String[] args) {
+    System.out.println(" Hello, World");
+    }
+   }
